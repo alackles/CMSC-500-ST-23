@@ -11,10 +11,10 @@ toc_icon: "cog"
 | Title | COURSE TITLE |
 | ----- | ----------- |
 | Instructor | Dr. Acacia Ackles |
-| Code | CMSC ### |
+| Code | CMSC 500 |
 | Units | 6 |
 | Room | Briggs 419 |
-| Time | TIME |
+| Time | TR 12:40 - 2:25 |
 
 ### Course Materials
 
@@ -22,7 +22,6 @@ toc_icon: "cog"
 | ----- | ----- |----- | ---- |
 | Gradebook | Canvas | [Link][canvas] | Learning Hub
 | Reading Portal | Persuall | via Canvas |  Reading 
-| Textbook | TITLE | [Link][textbook] | _Free to read; tracked on Perusall_
 
 You will also need a **personal laptop** to bring to class each day. If this is a barrier for you, please let me know ASAP.
 
@@ -30,7 +29,7 @@ You will also need a **personal laptop** to bring to class each day. If this is 
 
 | Office | Time | Days |
 | ----- | ----- | ----- |
-| Steitz 131 (NOT Briggs) | TIME | DAYS
+| Steitz 131 (NOT Briggs) | 9:00 AM - 11:00 AM | Tuesday & Friday
 
 These are the times when my schedule is blocked off for nothing but to talk to you. So please do come by! 
 
@@ -38,16 +37,14 @@ If you are busy during these times, you can always schedule an appointment with 
 
 ## Overview
 
-Course Overview.
-
+Welcome to Topics in Artificial Life! In this course you’ll learn how we can use a computational and algorithmic approach to understand the dynamics of biological life, both as it currently is on Earth and as it could be! You’ll see and demonstrate that evolution is an algorithm and arguably one of the most powerful algorithms of all time. It has proven exceedingly useful in solving problems that have been difficult for humans both in engineering and in biological systems. And surprisingly, all that is necessary for evolution to occur is three ingredients: variation, inheritance, and competition. With those three things and time, it is logically impossible for evolution not to occur.
 ## Learning Goals
 
 By the end of this course, you should be able to do the following: 
 
-Learning Goals Listed Here.
-- L1: CONTENT GOAL (primary)
-- L2: CONTENT GOAL (secondary)
-- **L3: Reading and Writing Computationally.** Be able to read written text (documentation, textbooks, online answers) about the course content and apply the lessons learned in your programming work; be able write your own plain language explanation of your own programming work. 
+- **L1: Evolution as an Algorithm.** Understand the basic principles of evolution. Understand the basic principles of evolution as an algorithm. Be able to instantiate evolution in a computer using the three principles of evolution: variation, inheritance, and competition.
+- **L2: Artificial Life as a Field.** Understand the strengths and limitations of biological research using computational tools vs. using wet-lab research vs. field study. Understand the current advancements and limitations in digital evolution/evolutionary computing/artificial life. What is Artificial Life? What isn't? What concerns and considerations should we take into account as we work in this emerging field? 
+- **L3: Computational Collaboration.** Be able to work with existing software databases as a user and as a contributor. Understand and practice good code etiquette. Be able to read and write documentation for large, complex, interconnected systems of code. 
 - **L4: Failure.** Take risks and push the boundaries of your understanding to the point where you are not always succeeding at a given problem. Stray out of your comfort zone and be able to evaluate your failures and your mistakes in a holistic way. Be able to reroute back-on-track when failure happens through a variety of means (troubleshooting, asking for help, taking a different approach, scaling back, scaling up). 
 - **L5: Reflection and Metacognition.** Be able to self-evaluate and self-reflect on your work, your learning, and your understanding or lack thereof. Identify where you struggle, where you excel, and how you know what you know. 
 
@@ -105,7 +102,6 @@ The following are **always** allowed on homeworks, labs, and projects.
 
 The following are never allowed.
 
-- Posting actual code on Piazza where other students can see it (posting it privately so I can read it is okay)
 - Copying any code that another student has written
 - Copying code from online without attribution
 - Posting solutions to the course materials to online aggregation sites (e.g. Chegg) or using solutions from such sites
@@ -113,17 +109,20 @@ The following are never allowed.
 - Looking at a friend’s code (or code on the internet for a similar purpose) and then using what you see to write your own code.* 
 - Looking at code from someone in class and then reproducing it verbatim in your own files
 - Directly copying code out of the book, or relying heavily on book code and not citing your use of it in the comments when the assignment does not specifically state that you may do so.
-- Using any AI-generated code (e.g. chatGPT, GPT-3, other OpenAI tools) as a solution or part of a solution to a problem.
 
 \* This one is tricky. Sometimes seeing what other people are doing right or wrong can be helpful for understanding our own code, but often when we're just starting out, it's hard to find the line between learning something new and implementing something without really understanding how it works. If you are ever unsure, **ask first**. 
 
-The reason for a full ban on AI-generated code is because this code is currently **unattributable** and **unregulated**, not to mention that the tools abstract away for you the critical component of this course, which is _sense-making_ and not _solution-finding_. This policy may change as the AI code landscape evolves, but for now, these tools are not appropriate for use as learning tools in a classroom setting.
+### What about chatGPT?
+
+Since this is an Artificial Life course, you might be interested how Artificial Intelligence plays a role, and specifically the use of Large Language Model (LLM) tools like chatGPT. We will discuss these programs and how they work in class; for now, let's keep the question of how and when to use chatGPT for this course open. 
 
 ## Course Policies
 
 ### Late Work Policy
 
-Late work is accepted up until the final day of the term. 
+Work turned in late without an extension won’t receive feedback; however, work can receive unlimited rounds of feedback upon request up until the last day of the term. Therefore, it’s always best to turn in _something_ rather than _nothing_, since then you can continue to work at your understanding if something doesn’t quite make sense.
+
+If you need an extension on an assignment for any reason, **leave a comment on Canvas** for the appropriate assignment and give yourself a new due date. Work turned in by your self-selected due date will be considered “on time”.
 
 ### Attendance
 
