@@ -176,3 +176,4 @@ _Parts of this syllabus is based heavily on one by Dr. Anya E. Vostinar. Thanks!
 [blum]: https://wvupressonline.com/ungrading
 [biggs]: http://journals.sagepub.com/doi/10.1177/000494418803200201
 [schraw]: http://link.springer.com/10.1007/s11165-005-3917-8
+[canvas]: lawrence.instructure.com

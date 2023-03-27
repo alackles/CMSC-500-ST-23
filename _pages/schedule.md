@@ -40,6 +40,6 @@ All reading is due **before** class time on that day. "Perusall" means there wil
 | R 5/25 | Guest Consultation: Austin Ferguson / Project Work Day | | | 
 | **Week 10** | **Project Work** | | |
 | T 5/30 | Project Work Day | | |
-| R 6/1 | Open Problems Discussion | | |
+| R 6/1 | Open Problems Discussion | Bedau et al. 2000 | |
 
 **Final Portfolios Due Wednesday 6/7 by 5:30 PM**
