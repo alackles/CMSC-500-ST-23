@@ -126,7 +126,7 @@ If you need an extension on an assignment for any reason, **leave a comment on C
 
 ### Attendance
 
-**Attendance is tracked** in this course; there is no "magic number" of attendances required, but for most students, regular attendance has a large impact on your final understanding of the material in the course. 
+**Attendance is tracked** in this course; there is no "magic number" of attendances required, but for most students, regular attendance has a large impact on your final understanding of the material in the course.  
 
 **First Week Policy:** Per LU policy, attendance is required for the first week of class. If you do not attend the first day AND do not let me know why, I will reach out to you to check if you are still attending; if you do not respond and do not attend the first week, the registrar will drop you from the course. 
 
