@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-_There are many, many, many tutorials on git and GitHub online. In an effort not to re-invent the wheel, I have compiled my favorite of these resources 
+_There are many, many, many tutorials on git and GitHub online. In an effort not to re-invent the wheel, I have compiled my favorite of these resources for this tutorial. That means it is NOT a completely follow-able tutorial if you miss class; you will want to meet with me separately._
 
 # Git
 
