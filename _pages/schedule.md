@@ -44,5 +44,5 @@ All reading is due **before** class time on that day. "Perusall" means there wil
 
 **Final Portfolios Due Wednesday 6/7 by 5:30 PM**
 
-[git]: https://alackles.github.io/CMSC-500-ST-23/notes/01/01-git/
-[cpp]: https://alackles.github.io/CMSC-500-ST-23/notes/01/01-cpp/
+[git]: https://alackles.github.io/CMSC-500-ST-23/notes/01/git/
+[cpp]: https://alackles.github.io/CMSC-500-ST-23/notes/01/cpp/
