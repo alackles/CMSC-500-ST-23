@@ -6,6 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
+[Solution Code for Problem]()
 # Hands-On C++
 
 If you are in this class, you should have some familiarity with C++ already. This is not intended to serve as an intro to C++, but a reminder of some quirks and features of C++.
