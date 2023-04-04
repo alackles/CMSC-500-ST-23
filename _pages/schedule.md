@@ -12,7 +12,7 @@ All reading is due **before** class time on that day. "Perusall" means there wil
 | Date	| Topics	| Due (Before Class) |	Assigned (After Class) |
 | ------- | --------------- | ------------- | -------------- |
 | **Week 1** | **Intro** | | |
-| T 3/28 | Intro to Class / Intro to ALife | | |
+| T 3/28 | Intro to Class / [Intro to ALife][alife] | | |
 | R 3/30 | [GitHub][git] / [C++][cpp] | | |
 | **Week 2** | **Heredity** | | |
 | T 4/4 | Inheritance in Evolution / Inheritance in C++ | Persuall | |
@@ -44,5 +44,6 @@ All reading is due **before** class time on that day. "Perusall" means there wil
 
 **Final Portfolios Due Wednesday 6/7 by 5:30 PM**
 
+[alife]: https://alackles.github.io/CMSC-500-ST-23/notes/01/alife/
 [git]: https://alackles.github.io/CMSC-500-ST-23/notes/01/git/
 [cpp]: https://alackles.github.io/CMSC-500-ST-23/notes/01/cpp/
