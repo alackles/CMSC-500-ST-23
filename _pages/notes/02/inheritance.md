@@ -30,6 +30,8 @@ class AbstractGenome {
 }
 ```
 
+[Code Link](https://github.com/alackles/CMSC-500-ST-23/tree/main/code/02)
+
 # Exercise
 
 ## Practice
