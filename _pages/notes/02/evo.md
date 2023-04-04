@@ -1,6 +1,6 @@
 ---
 title: Evolutionary Biology Background
-permalink: /notes/01/evo/
+permalink: /notes/02/evo/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

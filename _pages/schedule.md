@@ -15,7 +15,7 @@ All reading is due **before** class time on that day. "Perusall" means there wil
 | T 3/28 | Intro to Class / [Intro to ALife][alife] | | |
 | R 3/30 | [GitHub][git] / [C++][cpp] | | |
 | **Week 2** | **Heredity** | | |
-| T 4/4 | Inheritance in Evolution / Inheritance in C++ | Persuall | |
+| T 4/4 | [Inheritance in Evolution][evo] / [Inheritance in C++][inheritance] | Persuall | |
 | R 4/6 | _NO CLASS: Instructor Absence_ | | |
 | **Week 3** | **Variation** | | |
 | T 4/11 | Evolutionary Algorithms | Perusall | |
@@ -47,3 +47,5 @@ All reading is due **before** class time on that day. "Perusall" means there wil
 [alife]: https://alackles.github.io/CMSC-500-ST-23/notes/01/alife/
 [git]: https://alackles.github.io/CMSC-500-ST-23/notes/01/git/
 [cpp]: https://alackles.github.io/CMSC-500-ST-23/notes/01/cpp/
+[evo]: https://alackles.github.io/CMSC-500-ST-23/notes/02/evo/
+[inheritance]: https://alackles.github.io/CMSC-500-ST-23/notes/02/inheritance/
