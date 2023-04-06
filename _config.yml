@@ -27,7 +27,7 @@ author:
 include:
   - _pages
   - notes
-  - 01 
+  - papers 
 exclude:
   - Gemfile
   - LICENSE
