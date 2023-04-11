@@ -22,7 +22,7 @@ Code for the course is [here](https://github.com/alackles/CMSC-500-ST-23/tree/ma
 | T 4/4 | [Inheritance in Evolution][evo] / [Inheritance in C++][inheritance] | Persuall | |
 | R 4/6 | _NO CLASS: Instructor Absence_ | | |
 | **Week 3** | **Variation** | | |
-| T 4/11 | Evolutionary Algorithms | Perusall | |
+| T 4/11 | [Evolutionary Algorithms][evoalg] | Perusall | |
 | R 4/13 | Survival of the Flattest Discussion | PAPER 1: Wilke et al. 2001 | |
 | **Week 4** | **Competition** | | |
 | T 4/18 | Selection Schemes | Perusall | |
@@ -53,3 +53,4 @@ Code for the course is [here](https://github.com/alackles/CMSC-500-ST-23/tree/ma
 [cpp]: https://alackles.github.io/CMSC-500-ST-23/notes/01/cpp/
 [evo]: https://alackles.github.io/CMSC-500-ST-23/notes/02/evo/
 [inheritance]: https://alackles.github.io/CMSC-500-ST-23/notes/02/inheritance/
+[evoalg]: https://alackles.github.io/CMSC-500-ST-23/notes/03/evoalg/
