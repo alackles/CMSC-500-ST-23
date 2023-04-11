@@ -10,6 +10,8 @@ All reading is due **before** class time on that day. "Perusall" means there wil
 
 Instructions for paper discussions are [here](https://alackles.github.io/CMSC-500-ST-23/papers/instructions).
 
+Code for the course is [here](https://github.com/alackles/CMSC-500-ST-23/tree/main/code).
+
 
 | Date	| Topics	| Due (Before Class) |	Assigned (After Class) |
 | ------- | --------------- | ------------- | -------------- |
