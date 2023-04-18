@@ -52,7 +52,7 @@ class Population:
     # Constructor
     def __init__(self, n, genome_size):
         self.popsize = n
-        self.pop = [Organism(genome_size) for _ in range(n)]
+        self.pop = [Organism(genome_size) for _ in range(self.popsize)]
     
     # Tournament selection
     def tournament(self, tourny_size):
@@ -83,7 +83,7 @@ class Population:
 
 popsize = 100
 genomesize = 1000
-n_generations = 1000
+n_generations = 100
 avgfit = []
 bestfit = []
 
