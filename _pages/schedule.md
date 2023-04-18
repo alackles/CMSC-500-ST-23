@@ -25,7 +25,7 @@ Code for the course is [here](https://github.com/alackles/CMSC-500-ST-23/tree/ma
 | T 4/11 | [Evolutionary Algorithms][evoalg] | Perusall | |
 | R 4/13 | Survival of the Flattest Discussion | PAPER 1: Wilke et al. 2001 | |
 | **Week 4** | **Competition** | | |
-| T 4/18 | Selection Schemes | Perusall | |
+| T 4/18 | [Selection Schemes][schemes] | Perusall | |
 | R 4/20 | Ecological Diversity Discussion | PAPER 2: Simha et al. 2022 | |
 | **Week 5** | **DIY** | | |
 | T 4/25 | ALife Hackathon Day 1 | | |
