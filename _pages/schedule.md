@@ -54,3 +54,4 @@ Code for the course is [here](https://github.com/alackles/CMSC-500-ST-23/tree/ma
 [evo]: https://alackles.github.io/CMSC-500-ST-23/notes/02/evo/
 [inheritance]: https://alackles.github.io/CMSC-500-ST-23/notes/02/inheritance/
 [evoalg]: https://alackles.github.io/CMSC-500-ST-23/notes/03/evoalg/
+[schemes]: https://alackles.github.io/CMSC-500-ST-23/notes/04/schemes/
