@@ -34,7 +34,7 @@ while new_population.size < old_population.size
 end while
 ```
 
-Lexicase selection video
+# Lexicase Selection
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Th6Hx3SJOlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
