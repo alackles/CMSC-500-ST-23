@@ -13,6 +13,27 @@ toc_icon: "cog"
 "Fitness proportional" -- each organism gets some "part" of a "wheel", and the wheel is "spun". The size of that part is dependent on the organism's fitness. Whatever organism is selected is copied into the next population. 
 ## Psuedocode
 
+```
+new_population = []
+total_fit = 0
+for organism in p
+    total_fit += organism.fitness
+end for
+for organism in p
+    temp_fit = organism.get_fitness()/total_fit
+    prganism.fitness_percent = temp_fit 
+end for
+while new_population.size < population.size
+    target = random(0, 1)
+    current_fitness = 0
+    index = 0
+    while (current_fitness < target)
+        current_fitness += p[index].fitness_percent
+        index++
+    end while
+end while
+```
+
 # Tournament Selection
 
 # Concept
