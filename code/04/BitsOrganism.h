@@ -1,3 +1,6 @@
+#ifndef BITSORGANISM_H_
+#define BITSORGANISM_H_
+
 #include "BitsGenome.h"
 
 class BitsOrganism {
@@ -14,7 +17,7 @@ public:
 
     ~BitsOrganism();
 
-    int update() {
+    void update() {
         score = genome.ones();
     }
 
@@ -35,3 +38,5 @@ public:
     }
 
 };
+
+#endif /*BITSORGANISM_H_*/
