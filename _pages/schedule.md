@@ -28,7 +28,7 @@ Code for the course is [here](https://github.com/alackles/CMSC-500-ST-23/tree/ma
 | T 4/18 | [Selection Schemes][schemes] | Perusall | |
 | R 4/20 | Ecological Diversity Discussion | PAPER 2: Simha et al. 2022 | |
 | **Week 5** | **DIY** | | |
-| T 4/25 | ALife Hackathon Day 1 | | |
+| T 4/25 | [ALife Hackathon Day 1][hackathon] | | |
 | R 4/27 | ALife Hackathon Day 2 | | |
 | **Week 6** | **Intro to MABE2** | | |
 | T 5/2 | MABE2 & Project Pitches | | | 
@@ -55,3 +55,4 @@ Code for the course is [here](https://github.com/alackles/CMSC-500-ST-23/tree/ma
 [inheritance]: https://alackles.github.io/CMSC-500-ST-23/notes/02/inheritance/
 [evoalg]: https://alackles.github.io/CMSC-500-ST-23/notes/03/evoalg/
 [schemes]: https://alackles.github.io/CMSC-500-ST-23/notes/04/schemes/
+[hackathon]: https://alackles.github.io/CMSC-500-ST-23/notes/05/hackathon/
