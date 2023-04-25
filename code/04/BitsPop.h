@@ -36,7 +36,7 @@ public:
         // return newpop
     }
 
-    std::vector<BitsOrganism> roulette_select() {
+    std::vector<BitsOrganism*> roulette_select() {
         // your implementation
     }
 
