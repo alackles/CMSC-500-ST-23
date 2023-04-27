@@ -12,10 +12,11 @@ public:
 
     BitsOrganism(int n) {
         genome.resize(n);
+        genome.init();
         score = genome.ones();
     }
 
-    ~BitsOrganism();
+    ~BitsOrganism() {};
 
     void update() {
         score = genome.ones();
@@ -35,6 +36,10 @@ public:
 
     bool operator<(const BitsOrganism & other) {
         return score < other.score;
+    }
+
+    std::vector<bool> getGenome() {
+        return genome.get();
     }
 
 };

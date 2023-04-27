@@ -16,7 +16,7 @@ int main() {
         // int k = 7; // tournament size
         //newpop = population.tournament_select(k)
         //newpop = population.roulette_select() 
-        newpop = population.getPop();
+        newpop = population.getPop(); // currently there's no selection, so remove this when you add selection!
 
         // variation
         for (auto org : population.getPop()) {

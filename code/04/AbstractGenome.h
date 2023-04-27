@@ -12,6 +12,10 @@ class AbstractGenome {
         AbstractGenome() {
         }
 
+        AbstractGenome(int n) {
+            genome.resize(n);
+        }
+
         ~AbstractGenome(){};
 
         void resize(int n) {
@@ -25,6 +29,7 @@ class AbstractGenome {
         std::vector<T> get() {
             return genome;
         }
+
 };
 
 #endif /* ABSTRACTGENOME_H_ */

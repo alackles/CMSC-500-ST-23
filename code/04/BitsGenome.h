@@ -3,21 +3,22 @@
 
 #include "AbstractGenome.h"
 #include <algorithm>
+#include <iostream>
 
 class BitsGenome : public AbstractGenome<bool> {
 
     int n = genome.size();
-
+    
     public:
 
-        void init() {   // initialize with random 1s and 0s
+        void init() {
+            n = genome.size();
             for (int i = 0; i < n; i++) {
-                genome.push_back(rand() % 2);
+                genome[i] = rand() % 2;
             }
         }
-
         void point_mutate() {
-            int locus = rand() % n;         // choose a random site
+            int locus = n == 0 ? 0 : rand() % n;         // choose a random site
             genome[locus] = rand() % 2;     // set to either 0 or 1
         }
 
@@ -31,7 +32,18 @@ class BitsGenome : public AbstractGenome<bool> {
         }
 
         int ones() {
-            return std::count(genome.begin(), genome.end(), 1);
+            //for (int i = 0; i < n; i++) {
+             //   std::cout << genome[i] << " ";
+            //}
+            //std::cout << std::endl;
+            return std::count(genome.begin(), genome.begin() + n, 1);
+        }
+
+        void display() {
+            for (auto i : genome) {
+                std::cout << i << " ";
+            }
+            std::cout << std::endl;
         }
 };
 
