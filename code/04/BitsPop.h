@@ -11,6 +11,7 @@ class BitsPop {
 public:
 
     BitsPop(int n, int genomesize) {
+        std::cout << "hello" << std::endl;
         popsize = n;
         for (int i = 0; i < n; i++) {
             BitsOrganism* org = new BitsOrganism(genomesize);

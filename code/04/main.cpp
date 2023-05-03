@@ -13,6 +13,7 @@ int main() {
 
         // Selection
         std::vector<BitsOrganism*> newpop;
+        std::cout << "hello" << std::endl;
         // int k = 7; // tournament size
         //newpop = population.tournament_select(k)
         //newpop = population.roulette_select() 

@@ -31,7 +31,7 @@ Code for the course is [here](https://github.com/alackles/CMSC-500-ST-23/tree/ma
 | T 4/25 | [ALife Hackathon Day 1][hackathon] | | |
 | R 4/27 | ALife Hackathon Day 2 | | |
 | **Week 6** | **Intro to MABE2** | | |
-| T 5/2 | MABE2 & Project Pitches | | | 
+| T 5/2 | [MABE2 & Project Pitches][mabe2] | | | 
 | R 5/4 | _NO CLASS: Reading Period_ | | |
 | **Week 7** | **Neural Nets** | | |
 | T 5/9 | Neural Networks | Perusall && Project Claims | |
@@ -56,3 +56,4 @@ Code for the course is [here](https://github.com/alackles/CMSC-500-ST-23/tree/ma
 [evoalg]: https://alackles.github.io/CMSC-500-ST-23/notes/03/evoalg/
 [schemes]: https://alackles.github.io/CMSC-500-ST-23/notes/04/schemes/
 [hackathon]: https://alackles.github.io/CMSC-500-ST-23/notes/05/hackathon/
+[mabe2]: https://alackles.github.io/CMSC-500-ST-23/notes/06/mabe2/
