@@ -18,7 +18,7 @@ Anywhere you see `Modname` here, you should just drop in the name of the module.
 3. Edit the parameters in `settings/Modname.mabe` to your liking. You can probably leave most things as default but may want to play around with the parameters of `EvalModname` in particular to see how things change, or mess with the DataFile parameters if you want to store different kinds of data or give a new name. 
 4. `./MABE -f ../settings/Modname.mabe` to run. 
 
-Inportantly, **you do not need to recompile if you ar changing parameters in the `.mabe` file. You only need to recompile if you are changing code. 
+Inportantly, **you do not need to recompile if you are changing parameters** in the `.mabe` file. You only need to recompile if you are changing code. 
 
 ## Creating a New Evaluator
 
