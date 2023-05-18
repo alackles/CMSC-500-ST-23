@@ -40,7 +40,7 @@ Code for the course is [here](https://github.com/alackles/CMSC-500-ST-23/tree/ma
 | T 5/16 | chatGPT et al. | Perusall | |
 | R 5/18 | Stochastic Parrots Discussion | PAPER 4: Bender et al. 2021 | |
 | **Week 9** | **Project Work** | | | 
-| T 5/23 | Project Work Day | | |
+| T 5/23 | [Project Work Day][mabe2proj] | | |
 | R 5/25 | Guest Consultation: Austin Ferguson / Project Work Day | | | 
 | **Week 10** | **Project Work** | | |
 | T 5/30 | Project Work Day | | |
@@ -57,3 +57,4 @@ Code for the course is [here](https://github.com/alackles/CMSC-500-ST-23/tree/ma
 [schemes]: https://alackles.github.io/CMSC-500-ST-23/notes/04/schemes/
 [hackathon]: https://alackles.github.io/CMSC-500-ST-23/notes/05/hackathon/
 [mabe2]: https://alackles.github.io/CMSC-500-ST-23/notes/06/mabe2/
+[mabe2proj]: https://alackles.github.io/CMSC-500-ST-23/notes/08/mabe2proj/
